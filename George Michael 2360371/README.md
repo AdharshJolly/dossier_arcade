@@ -5,6 +5,5 @@
   https://georgemichael-2360371-dossier.streamlit.app/
 # For Web Scraping the Code is in webscraping.ipynb file :
   George Michael 2360371/webscraping.ipynb
-#the output of the webscraped data is available in data.csv file
-
-thank you :D
+# the output of the webscraped data is available in data.csv file
+  thank you :D
