@@ -1,4 +1,4 @@
-# Note this is a copy of another repo to pull request into the foscii github repo
+# Note this is a copy of my original repo to pull request into the foscii github repo
   the visualisation GUI app is deployed from the original github repo here:
     https://github.com/georgem7154/Visualisation-Of-Agriculture-In-Countries
 # CHECK OUT THE DEPLOYED WORKING VERSION OF THE PROJECT HERE:
